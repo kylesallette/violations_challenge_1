@@ -21,3 +21,7 @@ class Violations
      violation_type row[:violation_type])
     end
   end
+
+  def earliest_violation
+
+  end
