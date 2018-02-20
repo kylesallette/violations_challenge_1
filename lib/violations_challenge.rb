@@ -7,7 +7,7 @@ class Violations
 
   def initialize
     @read_csv = read_csv
-    @violations = violations
+    @violations = {}
   end
 
   def read_csv
